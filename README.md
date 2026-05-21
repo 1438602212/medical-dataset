@@ -1,6 +1,25 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗脑部CT疾病识别分割数据集labelme格式1521张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9xaA==">下载</a></td></tr>
+<tr><td>智慧医疗医学影像脑部疾病脑出血识别分割数据集labelme格式1878张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9waw==">下载</a></td></tr>
+<tr><td>智慧医疗药片类型检测数据集VOC+YOLO格式930张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTk5xpbQ==">下载</a></td></tr>
+<tr><td>智慧医疗OCT视网膜病变检测数据集VOC+YOLO格式5099张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqbA==">下载</a></td></tr>
+<tr><td>智慧医疗OCT视网膜病变识别分割数据集labelme格式5099张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqaQ==">下载</a></td></tr>
+<tr><td>智慧医疗磁共振成像脑中风检测数据集VOC+YOLO格式1793张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5lwZw==">下载</a></td></tr>
+<tr><td>智慧医疗视网膜OCT图像光学相干断层扫描眼病检测数据集VOC+YOLO格式1038张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5lvbQ==">下载</a></td></tr>
+<tr><td>智慧医疗眼底图像视网膜病变检测数据集VOC+YOLO格式2183张9类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5lvZw==">下载</a></td></tr>
+<tr><td>智慧医疗脑部磁共振成像帕金森病与急性缺血性卒中检测数据集VOC+YOLO格式1596张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5lvZQ==">下载</a></td></tr>
+<tr><td>智慧医疗磁共振成像脑中风图像分类数据集1884张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5lubA==">下载</a></td></tr>
+<tr><td>智慧医疗眼底图像糖尿病视网膜病变检测数据集VOC+YOLO格式482张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5luaw==">下载</a></td></tr>
+<tr><td>智慧医疗OCT视网膜病变检测数据集VOC+YOLO格式5099张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqbA==">下载</a></td></tr>
+<tr><td>智慧医疗OCT视网膜病变识别分割数据集labelme格式5099张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqaQ==">下载</a></td></tr>
+<tr><td>智慧医疗骨折检测数据集VOC+YOLO格式437张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtwZw==">下载</a></td></tr>
+<tr><td>智慧医疗X光图像手骨骨折检测数据集VOC+YOLO格式20307张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9yZw==">下载</a></td></tr>
+<tr><td>眼部疾病检测数据集VOC+YOLO格式2280张4类别</td><td><a href="https://mbd.pub/o/bread/YZWblZpxZA==">下载</a></td></tr>
+<tr><td>智慧医疗X光图像前交叉韧带检测数据集VOC+YOLO格式3059张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtaQ==">下载</a></td></tr>
+<tr><td>智慧医疗手术工具医疗器械检测数据集VOC+YOLO格式2273张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhrZg==">下载</a></td></tr>
+<tr><td>智慧医疗牙齿疾病龋齿检测数据集VOC+YOLO格式2250张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5dpZg==">下载</a></td></tr>
 <tr><td>人脸皮肤病脓包雀斑皱纹白头黑头检测数据集VOC+YOLO格式4090张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9saA==">下载</a></td></tr>
 <tr><td>智慧医疗人脸皮肤病检测数据集VOC+YOLO格式8093张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9sZA==">下载</a></td></tr>
 <tr><td>人脸皮肤病痤疮毛囊炎丘疹疤痕检测数据集VOC+YOLO格式5454张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9sZQ==">下载</a></td></tr>
